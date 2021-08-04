@@ -1,9 +1,6 @@
 # HackRF ADS-B Transmitter
 
-This repository contains "ADS-B Out" encoder for Tx-capable SDR hardware.
-
-## Disclaimer
-The source code is published for academic purpose only. Do not 
+This repository contains "ADS-B Out" encoder for Tx-capable SDR hardware and instructions on how to transmit the data.
 
 ## Instructions - Mac
 1. Install Hack-RF
